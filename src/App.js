@@ -11,7 +11,7 @@ class App extends Component {
     ],
     otherState: 'some other value',
     showPersons: false
-  }
+  };
 
   switchNameHandler = (newName) => {
     // console.log('Was clicked!');
